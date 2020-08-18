@@ -97,6 +97,9 @@ margin-left: 60px;
 a img{
     border-radius: 50%;
 }
+footer a:hover{
+    border-bottom: 1px solid darkcyan;
+}
 .information a{
     text-decoration: none;
     text-transform: capitalize;
